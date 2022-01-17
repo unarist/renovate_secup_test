@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "growl": "1.9.0",
+    "growl": "1.10.0",
     "jquery": "3.4.0",
     "marked": "2.0.1"
   }
