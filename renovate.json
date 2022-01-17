@@ -1,6 +1,5 @@
 {
   "timezone": "Asia/Tokyo",
-  "schedule": ["every 3 months on the first day of the month"],
   "dependencyDashboard": true,
   "packageRules": [
     {
