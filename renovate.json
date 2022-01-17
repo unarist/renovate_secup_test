@@ -5,10 +5,10 @@
   "packageRules": [
     {
       "matchFiles": ["package.json"],
-      "enabled": false,
-      "vulnerabilityAlerts": {
-        "enabled": true
-      }
+      "dependencyDashboardApproval": true
     }
-  ]
+  ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  }
 }
