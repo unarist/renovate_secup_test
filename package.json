@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "jquery": "^2.4.0",
+    "jquery": "^2.5.0",
     "marked": "^2.1.3"
   }
 }
